@@ -1,2 +1,41 @@
 # Cracking-the-Coding-Interview
-这是一个自己建立的翻译文档，主要为了学习英语而设计
+
+这是一个自己建立的翻译文档，我的英文比较差，主要为了学习英语而建立的。
+
+
+# Introduction 
+
+- [Introduction](#Introduction)
+- [The Interview Process](#The-Interview-Process)
+    * [Why](#Why)
+    * [How Questions are Selected](#How-Questions-are-Selected)
+- [Behind the Scenes](#Behind-the-Scenes)
+    * [The Microsoft Interview](#The-Microsoft-Interview)
+    * [The Amazon Interview](#The-Amazon-Interview)
+    * [The Google Interview](#The-Google-Interview)
+    * [The Apple Interview](#The-Apple-Interview)
+    * [The Facebook Interview](#The-Facebook-Interview)
+    * [The Palantir Interview](#The-Palantir-Interview)
+- [Special Situations](#Special-Situations)
+    * [Experienced Candidates](#Experienced-Candidates)
+    * [Testers and SDETs](#Testers-and-SDETs)
+    * [Product (and Program) Management Dev Lead and Managers](#Product-(and-Program)-Management-Dev-Lead-and-Managers)
+    * [Startups](#Startups)
+    * [Acquisitions and Acquihires](#Acquisitions-and-Acquihires)
+    * [For Interviewers](#For-Interviewers)
+- [xxxxxxxxx](#xxxxxxxxx)
+    * [xxxxxxxxxxx](#xxxxxxxxxxx)
+        + [xxxxxxxxxx](#xxxxxxxxxxx)
+- [Interview Questions](#Interview-Questions)
+    * [Chapter 1 Arrays and Strings](#Chapter-1-Arrays-and-Strings)
+        + [Hash Tables](#Hash-Tables)    
+        + [ArrayList & Resizable Arrays](#ArrayList-&-Resizable-Arrays)    
+        + [StringBuilder](#StringBuilder)    
+    * [Chapter 2 I Linked Lists](#Chapter-2-I-Linked-Lists)
+        + [Creating a Linked List](#Creating-a-Linked-List)
+        + [Deleting a Node from a Singly Linked List](#Deleting-a-Node-from-a-Singly-Linked-List)
+        + [The "Runner" Technique](#The-Runner-Technique)
+        + [Recursive Problems](#Recursive-Problems)
+- [xxxxxxxxx](#xxxxxxxxx)
+    * [xxxxxxxxxxx](#xxxxxxxxxxx)
+        + [xxxxxxxxxx](#xxxxxxxxxxx)
