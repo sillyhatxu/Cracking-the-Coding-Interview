@@ -15,6 +15,7 @@ public class Chapter_1_1_IsUnique {
     }
 
     public static void main(String[] args) {
-        System.out.println(IsUnique("asdglkhsdfghjdsg"));
+        System.out.println(IsUnique("sbcdefg"));
+        System.out.println(!IsUnique("sbcdefghiesgd"));
     }
 }
